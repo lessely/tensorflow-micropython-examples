@@ -2,7 +2,7 @@
     <img src="images/tensorflow-micropython-examples.png">
 </p>
 
-# Tensorflow Micropython Examples
+# Tensorflow Micropython Examples 示例
 
 The purpose of this project is to make a custom micropython firmware that installs tensorflow lite for micro controllers
 and allows for experimentation.
